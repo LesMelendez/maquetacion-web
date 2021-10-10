@@ -1,0 +1,101 @@
+.card-container {
+  height: 100vh;
+  padding-top: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  width: 80%;
+  background-color: rgba(8, 80, 73, 0.192);
+}
+.card img{
+  width: 100%;
+}
+.text-container
+{
+  font: oblique bold 120% cursive ;
+  color: #ffffff;
+  text-align: center;
+  
+}
+.card-container2
+{
+  width: 80%;
+  background-color: rgba(8, 80, 73, 0.192);
+  padding-top: 20%;
+  color: #ffffff;
+  display: flex;
+ 
+}
+.card2 {
+  width: 100%;
+  background-color: rgba(8, 80, 73, 0.192);
+  justify-content: center;
+}
+.card2 img{
+  width: 100%;
+}
+.nc
+{
+  
+  font: oblique bold 120% cursive ;
+  margin: 10%;
+  
+}
+.nc p{
+  height: auto;
+  background-color: rgba(6, 64, 68, 0.363);
+}
+
+.card-container3 {
+  height: 100vh;
+  padding-top: 10%;
+  display: flex;
+  justify-content: none;
+}
+.card3 {
+  width: 100%;
+  justify-content: space-between;
+  color: #ffffff;
+}
+.card3 img {
+  position:relative;
+  width: 30rem;
+  height: 50rem;
+}
+.first
+{
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+.text-container3
+{
+  background-color: rgba(4, 87, 59, 0.5);
+  text-align: center;
+  font: oblique bold 120% cursive;
+}
+.card-container4 {
+  height: 100vh;
+  padding-top: 80%;
+  display: flex;
+  justify-content: none;
+
+}
+.card4 {
+  width: 100%;
+  justify-content: space-between;
+  color: #ffffff;
+}
+.card4 img {
+  position:relative;
+  width: 30rem;
+  height: 50rem;
+}
+.text-container4
+{
+  background-color: rgba(17, 78, 58, 0.5);
+  text-align: center;
+  font: oblique bold 120% cursive;
+}

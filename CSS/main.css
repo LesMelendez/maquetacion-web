@@ -1,0 +1,34 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;  
+    background:linear-gradient(#24925a, #218668)
+}
+.full-viewport-container
+{
+    width: 100%;
+    min-height: 100vh;
+    
+}
+.first-cover
+{  
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+}
+.text-box{
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.text-box_text
+{
+    width: auto;
+    padding: 1em;
+    font-size: 3rem;
+    color: white;
+    border: solid 2px white;
+    text-transform: uppercase ;
+}
